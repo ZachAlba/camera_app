@@ -1,4 +1,5 @@
 {
+    "id": "e37f26d7-c1a4-468e-a150-6db75948216a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(233, 231, 228, 1)"
+            "backgroundColor": "rgba(229, 202, 141, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(233, 231, 228, 1)"
+        "BackgroundColor": "rgba(229, 202, 141, 1)"
     },
     "children": [
         {
@@ -156,7 +157,6 @@
             "name": "Image2"
         }
     ],
-    "id": "e37f26d7-c1a4-468e-a150-6db75948216a",
     "thunkableVersion": 443,
     "name": "Image Edit Screen"
 }
