@@ -1,4 +1,5 @@
 {
+    "id": "efaba283-e369-408d-bda5-37fad17109cc",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(233, 231, 228, 1)"
+            "backgroundColor": "rgba(229, 202, 141, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(233, 231, 228, 1)"
+        "BackgroundColor": "rgba(229, 202, 141, 1)"
     },
     "children": [
         {
@@ -668,7 +669,6 @@
             "name": "Image1"
         }
     ],
-    "id": "efaba283-e369-408d-bda5-37fad17109cc",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }
